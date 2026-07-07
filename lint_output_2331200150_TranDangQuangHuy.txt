@@ -1,0 +1,6 @@
+﻿
+C:\Users\admin\Desktop\tdqhcsw33\lab2\git-calculator-app-2331200150-TranDangQuangHuy\src\preload\preload.js
+  1:9  warning  'contextBridge' is assigned a value but never used  no-unused-vars
+
+Γ£û 1 problem (0 errors, 1 warning)
+
